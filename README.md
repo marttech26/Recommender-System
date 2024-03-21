@@ -2,19 +2,19 @@
 
 ## Overview
 
-![recommendations readme](https://github.com/Perception-ui/phase_4/assets/139771882/39015c1f-e986-43fc-8570-95464634040b)
+![recommendations readme](movie.jpeg)
 
-This project entails the development of a movie recommendation system utilizing collaborative filtering techniques on the MovieLens dataset. The primary objective is to provide users with personalized top 5 movie suggestions based on their preferences and historical ratings.
+This project entails the development of a movie recommendation system utilizing collaborative filtering techniques on the MovieLens dataset. The primary objective is to provide users with personalized movie suggestions based on their preferences and historical ratings.
 
-The document comprehensively covers the entire data science life cycle, including business understanding, data cleaning, exploratory analysis, modeling, evaluation, and final model deployment.
+The README comprehensively covers the entire data science life cycle, including business understanding, data cleaning, exploratory analysis, modeling, evaluation, and final model deployment.
 
 ## Business Understanding
 
-The central business objective is to enhance user engagement and satisfaction on a streaming platform by delivering tailored movie recommendations. The ultimate goal is to prolong user interaction with the platform, potentially leading to increased revenue.
+The primary goal is to enhance user engagement and satisfaction on a streaming platform by delivering tailored movie recommendations. By providing personalized suggestions, we aim to prolong user interaction with the platform, potentially leading to increased revenue.
 
 ## Problem Statement
 
-To achieve our business objective, the project aims to actively involve users by delivering personalized movie recommendations. This involves employing machine learning algorithms, specifically collaborative filtering and content-based filtering, to analyze user ratings and preferences.
+To achieve our business objective, we aim to actively involve users by delivering personalized movie recommendations. This involves employing machine learning algorithms, specifically collaborative filtering and content-based filtering, to analyze user ratings and preferences.
 
 ## Metric of Success
 
@@ -23,14 +23,14 @@ The success of the model will be measured by the Root Mean Squared Error (RMSE).
 ## Objectives
 ### Primary Objective:
 
-Develop and implement a movie recommendation system using collaborative filtering techniques to provide personalized top 5 movie recommendations for users.
+To develop and implement a movie recommendation system using collaborative filtering techniques to provide personalized top 5 movie recommendations for users.
 
 ### Specific Objectives:
 
-  1.Understand movie ratings distribution and user preferences.<br>
-  2.Analyze data to identify highest-rated movies.<br>
-  3.Examine monthly user engagement.<br>
-  4.Analyze and identify highest-rated genres.<br>
+  1.To understand movie ratings distribution and user preferences.<br>
+  2.To analyze data to identify highest-rated movies.<br>
+  3.To examine monthly user engagement.<br>
+  4.To analyze and identify highest-rated genres.<br>
 
 ## Data Understanding
 
@@ -47,13 +47,10 @@ Data preparation involved merging key movies and ratings data files into a singl
 ## Exploratory Data Analysis
 Both univariate and bivariate analyses were performed:
 
-Analyzed peak hourly and monthly viewing trends and rating patterns
-
-Computed average ratings per user and overall distributions
-
-Studied correlations of ratings with genres using plots and heatmaps
-
-Identified most frequently rated and highest/lowest rated movies
+- Analyzed peak hourly and monthly viewing trends and rating patterns
+- Computed average ratings per user and overall distributions
+- Studied correlations of ratings with genres using plots and heatmaps
+- Identified most frequently rated and highest/lowest rated movies
 
 ## Model Building
 
@@ -80,9 +77,9 @@ Implement a real-time recommendation system to provide users with up-to-date sug
 
 ## Collaborators
 
-[Lewis Otsieka](https://github.com/Perception-ui)<br>
-[Ejidiah Kanyi](https://github.com/EjiKanyi)<br>
-[Gichogu Macharia](https://github.com/Mr-Macharia)<br>
-[Laureen Chepkoech](https://github.com/Lawrync)<br>
-[Yusra Mohamed](https://github.com/Yusra12)<br>
-[Emmanuel Rono](https://github.com/marttech26)<br>
+- [Lewis Otsieka](https://github.com/Perception-ui)<br - Data Scientist
+- [Ejidiah Kanyi](https://github.com/EjiKanyi)<br> - Data Scientist
+- [Gichogu Macharia](https://github.com/Mr-Macharia)<br> - Data Scientist
+- [Laureen Chepkoech](https://github.com/Lawrync)<br> - Data Scientist
+- [Yusra Mohamed](https://github.com/Yusra12)<br> - Data Scientist
+- [Emmanuel Rono](https://github.com/marttech26)<br> - Machine Learning Engineer
